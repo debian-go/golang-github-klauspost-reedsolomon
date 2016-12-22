@@ -1,5 +1,5 @@
-golang-github-klauspost-reedsolomon (1.2+git20161028.14.d0a56f7-1) UNRELEASED; urgency=medium
+golang-github-klauspost-reedsolomon (1.2+git20161028.14.d0a56f7-1) unstable; urgency=medium
 
-  * Initial release (Closes: TODO)
+  * Initial release (Closes: #849067)
 
  -- Free Ekanayaka <freee@debian.org>  Sun, 30 Oct 2016 15:28:44 +0000
